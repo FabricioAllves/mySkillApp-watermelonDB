@@ -1,0 +1,2 @@
+schema = > utilizado para criar a tabela
+model => representar os dados de cada tabela
